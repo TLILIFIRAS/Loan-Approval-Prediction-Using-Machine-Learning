@@ -17,5 +17,5 @@ This project aims to predict loan approval using machine learning algorithms. Th
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/your-username/loan-approval-prediction.git
+git clone https://github.com/TLILIFIRAS/Loan-Approval-Prediction-Using-Machine-Learning.git 
 
